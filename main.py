@@ -119,7 +119,7 @@ for feature, score in zip(selected_features, scores):
     print(f"- {feature}: {score:.2f}")
 
 # ========================================================
-# 9. PENYEIMBANGAN DATA DENGAN SMOTE & VISUALISASI
+# 6. PENYEIMBANGAN DATA DENGAN SMOTE & VISUALISASI
 # ========================================================
 print("\n=== 9. Menjalankan Penyeimbangan Data dengan SMOTE ===")
 
